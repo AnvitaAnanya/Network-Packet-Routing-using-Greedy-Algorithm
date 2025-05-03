@@ -68,4 +68,4 @@ T(N) = aT(N/b) + O(N^d) a = 1, b = 1, d = 1 → O(N²)
 - **Yashwanth Ch** - RA2311030010087  
 - **Anvita A** - RA2311030010092
 
-**Branch:** Computer Science and Engineering (SC) - Y1 Section
+**Branch:** Computer Science and Engineering (SC) - Y1 Section 
